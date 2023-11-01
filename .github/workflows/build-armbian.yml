@@ -194,7 +194,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - liu
 
 env:
   TZ: America/New_York
